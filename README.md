@@ -1,6 +1,6 @@
 - 👋 It’s Methun here!
 - 👀 Bioinfo.
-- 🌱 project in loading...
+- 🌱 New project is loading...
 - 📫 for enquiries ; methungeorge333@gmail.com
 
 <!---
