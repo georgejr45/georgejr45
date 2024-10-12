@@ -1,7 +1,7 @@
 - 👋 It’s Methun here!
 - 👀 Bioinfo.
 - 🌱 New project is loading...
-- 📫 for enquiries ; methungeorge333@gmail.com
+- 📫 for enquiries ; methungeorge333@gmail.com / methun.george@ipb-halle.de
 
 <!---
 georgejr45/georgejr45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
