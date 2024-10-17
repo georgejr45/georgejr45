@@ -1,4 +1,4 @@
-- 👋 It’s Methun here!
+- 👋 call me Methun
 - 👀 Bioinfo.
 - 🌱 New project is loading...
 - 📫 for enquiries ; methungeorge333@gmail.com / methun.george@ipb-halle.de
