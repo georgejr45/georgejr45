@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I’m a Master's student in Life Science Informati
 
 ## 🛠️ Projects
 - [nearspectRa](https://github.com/georgejr45/nearspectRa): R toolbox for NIRS data processing and analysis.
-- [Heart Disease Prediction](https://github.com/georgejr45/): Random Forest model for heart disease risk.
+- [EcipGenefail](https://github.com/georgejr45/EpicGeneFail): Senescence gene expression pattern i melanoma cells.
 
 ## 🌟 Skills
-- **Programming**: Python, R, Linux
+- **Programming**: Python, R
 - **Tools**: GSEA, DESeq2, DAVID, Jupyter Notebook
 - **Machine Learning**: CNN, PLSR, Random Forest
 - **Soft Skills**: Collaboration, problem-solving, and adaptability.
