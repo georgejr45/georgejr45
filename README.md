@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a Master's student in Life Science Informati
 
 ## 🛠️ Projects
 - [nearspectRa](https://github.com/georgejr45/nearspectRa): R toolbox for NIRS data processing and analysis.
-- [EcipGenefail](https://github.com/georgejr45/EpicGeneFail): Senescence gene expression pattern i melanoma cells.
+- [EcipGenefail](https://github.com/georgejr45/EpicGeneFail): Senescence gene expression pattern in melanoma cells.
 
 ## 🌟 Skills
 - **Programming**: Python, R
