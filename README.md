@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I’m a Master's student in Life Science Informatics with expertise in **bioinformatics**, **pharmacology**, and **machine learning**.
 
-- 📫 for enquiries ; methungeorge333@gmail.com / methun.george@ipb-halle.de
+- 📫 for enquiries ; methungeorge333@gmail.com
 ## 📄 My CV
 [Check out my CV!](https://github.com/georgejr45/georgejr45/blob/main/resume_new.pdf)
 
