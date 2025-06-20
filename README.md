@@ -2,7 +2,7 @@
 
 - # 👋 Hi, I'm Methun George
 
-Welcome to my GitHub profile! I’m a Master's student in Life Science Informatics with expertise in **bioinformatics**, **pharmacology**, and **machine learning**.
+Pharmacist turned Bioinformatician on a quest to decode the chaos of biological data. I stare at complex datasets in awe… then roll up my sleeves and find ways to make sense of them. Always learning, always building — one script at a time!
 
 - 📫 for enquiries ; methungeorge333@gmail.com
 ## 📄 My Resume
