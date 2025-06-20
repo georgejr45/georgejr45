@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I’m a Master's student in Life Science Informati
 - 📫 for enquiries ; methungeorge333@gmail.com
 ## 📄 My Resume
 - English [Check out my CV!](https://github.com/georgejr45/georgejr45/blob/main/resume_new.pdf)
+- Deutsch [Check out my CV!](https://github.com/georgejr45/georgejr45/blob/main/Resume_German.pdf)
 
 ## 🛠️ Projects
 - [nearspectRa](https://github.com/georgejr45/nearspectRa): R toolbox for NIRS data processing and analysis.
