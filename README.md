@@ -6,7 +6,7 @@ Pharmacist turned Bioinformatician on a quest to decode the chaos of biological 
 
 - 📫 for enquiries ; methungeorge333@gmail.com
 ## 📄 My Resume
-- English [Check out my CV!](https://github.com/georgejr45/georgejr45/blob/main/resume_new.pdf)
+- English [Check out my CV!](https://github.com/georgejr45/georgejr45/blob/main/Resume-3.pdf)
 - Deutsch [Check out my CV!](https://github.com/georgejr45/georgejr45/blob/main/Resume_German.pdf)
 
 ## 🛠️ Projects
